@@ -22,5 +22,17 @@
     "name": "Car",
     "price": 14000,
     "imgUrl": "/imgs/car.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Shoes",
+    "price": 50,
+    "imgUrl": "https://hd.wallpaperswide.com/thumbs/love_shoes-t2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "LCD",
+    "price": 500,
+    "imgUrl": "https://hd.wallpaperswide.com/thumbs/lg_ultrawide_curved_monitor_keyboard_computer_desk_design-t1.jpgs"
   }
 ]
