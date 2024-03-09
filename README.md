@@ -1,4 +1,4 @@
-# react-addToCart-Project
+# react-addToCart-Project using TypeScript
 
 # just clone it in your IDE and install packages using npm i or yarn
 
